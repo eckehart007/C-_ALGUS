@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450462787 source:c:\users\egert\desktop\devc\c++_algus\helloworld\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

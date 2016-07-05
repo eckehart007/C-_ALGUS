@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458333166 source:c:\users\egert\desktop\devc\c++_algus\datatypes\main.cpp
+	<iostream>
+	<bitset>
+	<iomanip>
+

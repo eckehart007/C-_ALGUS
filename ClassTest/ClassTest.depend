@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1466533285 source:c:\users\egert\desktop\devc\c++_algus\classtest\main.cpp
+	<iostream>
+	"TestClass.h"
+
+1466533377 c:\users\egert\desktop\devc\c++_algus\classtest\testclass.h
+
+1466533410 source:c:\users\egert\desktop\devc\c++_algus\classtest\testclass.cpp
+	"TestClass.h"
+	<iostream>
+

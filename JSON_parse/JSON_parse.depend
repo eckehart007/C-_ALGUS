@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1464892585 source:c:\users\egert\desktop\devc\c++_algus\json_parse\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<string>
+	<algorithm>
+

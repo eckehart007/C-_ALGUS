@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1466345215 source:c:\users\egert\desktop\devc\c++_algus\classes__2\main.cpp
+	<iostream>
+	<string>
+	"MyNewClass.h"
+
+1466344121 c:\users\egert\desktop\devc\c++_algus\classes__2\mynewclass.h
+
+1466345208 source:c:\users\egert\desktop\devc\c++_algus\classes__2\mynewclass.cpp
+	"MyNewClass.h"
+	<iostream>
+
